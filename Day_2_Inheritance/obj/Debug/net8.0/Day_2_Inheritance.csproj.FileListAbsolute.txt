@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\Day_2_Inheritance\bin\Debug\net8.0\Day_2_Inheritance.exe
+C:\Users\IET\source\repos\Day_2_Inheritance\bin\Debug\net8.0\Day_2_Inheritance.deps.json
+C:\Users\IET\source\repos\Day_2_Inheritance\bin\Debug\net8.0\Day_2_Inheritance.runtimeconfig.json
+C:\Users\IET\source\repos\Day_2_Inheritance\bin\Debug\net8.0\Day_2_Inheritance.dll
+C:\Users\IET\source\repos\Day_2_Inheritance\bin\Debug\net8.0\Day_2_Inheritance.pdb
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\Day_2_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\Day_2_Inheritance.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\Day_2_Inheritance.AssemblyInfo.cs
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\Day_2_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\Day_2_Inheritance.dll
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\refint\Day_2_Inheritance.dll
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\Day_2_Inheritance.pdb
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\Day_2_Inheritance.genruntimeconfig.cache
+C:\Users\IET\source\repos\Day_2_Inheritance\obj\Debug\net8.0\ref\Day_2_Inheritance.dll
