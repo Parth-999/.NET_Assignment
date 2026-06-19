@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\Day_3_Demo7\bin\Debug\net8.0\Day_3_Demo7.exe
+C:\Users\IET\source\repos\Day_3_Demo7\bin\Debug\net8.0\Day_3_Demo7.deps.json
+C:\Users\IET\source\repos\Day_3_Demo7\bin\Debug\net8.0\Day_3_Demo7.runtimeconfig.json
+C:\Users\IET\source\repos\Day_3_Demo7\bin\Debug\net8.0\Day_3_Demo7.dll
+C:\Users\IET\source\repos\Day_3_Demo7\bin\Debug\net8.0\Day_3_Demo7.pdb
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\Day_3_Demo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\Day_3_Demo7.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\Day_3_Demo7.AssemblyInfo.cs
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\Day_3_Demo7.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\Day_3_Demo7.dll
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\refint\Day_3_Demo7.dll
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\Day_3_Demo7.pdb
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\Day_3_Demo7.genruntimeconfig.cache
+C:\Users\IET\source\repos\Day_3_Demo7\obj\Debug\net8.0\ref\Day_3_Demo7.dll

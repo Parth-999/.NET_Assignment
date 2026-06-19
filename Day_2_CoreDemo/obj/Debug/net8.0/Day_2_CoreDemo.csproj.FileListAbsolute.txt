@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\Day_2_CoreDemo\bin\Debug\net8.0\Day_2_CoreDemo.exe
+C:\Users\IET\source\repos\Day_2_CoreDemo\bin\Debug\net8.0\Day_2_CoreDemo.deps.json
+C:\Users\IET\source\repos\Day_2_CoreDemo\bin\Debug\net8.0\Day_2_CoreDemo.runtimeconfig.json
+C:\Users\IET\source\repos\Day_2_CoreDemo\bin\Debug\net8.0\Day_2_CoreDemo.dll
+C:\Users\IET\source\repos\Day_2_CoreDemo\bin\Debug\net8.0\Day_2_CoreDemo.pdb
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\Day_2_CoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\Day_2_CoreDemo.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\Day_2_CoreDemo.AssemblyInfo.cs
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\Day_2_CoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\Day_2_CoreDemo.dll
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\refint\Day_2_CoreDemo.dll
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\Day_2_CoreDemo.pdb
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\Day_2_CoreDemo.genruntimeconfig.cache
+C:\Users\IET\source\repos\Day_2_CoreDemo\obj\Debug\net8.0\ref\Day_2_CoreDemo.dll
